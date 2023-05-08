@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lcscontrols', // Usually your GitHub org/user name.
   projectName: 'lcscontrols.github.io', // Usually your repo name.
-  deploymentBranch: 'master', // The branch of your site that GitHub pages will use.
+  deploymentBranch: 'deployment', // The branch of your site that GitHub pages will use.
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
