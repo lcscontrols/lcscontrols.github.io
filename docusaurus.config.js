@@ -21,7 +21,7 @@ const config = {
   organizationName: 'lcscontrols', // Usually your GitHub org/user name.
   projectName: 'lcscontrols.github.io', // Usually your repo name.
   deploymentBranch: 'master', // The branch of your site that GitHub pages will use.
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
